@@ -18,7 +18,7 @@
 },
 {
 "sourceName":"🐭千方收集仓🐭",
-"sourceUrl":"https://jsd.cdn.zzko.cn/gh/QFBJ/jdk@main/千方百纪.txt"
+"sourceUrl":"https://jsd.cdn.zzko.cn/gh/QFBJ/TV@main/B/千方百纪.txt"
 },
 {
 "sourceName":"🐭等待添加🐭",

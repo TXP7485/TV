@@ -18,11 +18,11 @@
 },
 {
 "sourceName":"🐭千方影视仓🐭",
-"sourceUrl":"https://jsd.cdn.zzko.cn/gh/QFBJ/jdk@main/千方百纪一仓.txt"
+"sourceUrl":"https://jsd.cdn.zzko.cn/gh/QFBJ/TV@main/B/千方影视仓.txt"
 },
 {
 "sourceName":"🐭百纪影视仓🐭",
-"sourceUrl":"https://jsd.cdn.zzko.cn/gh/QFBJ/jdk@main/千方百纪二仓.txt"
+"sourceUrl":"https://jsd.cdn.zzko.cn/gh/QFBJ/TV@main/B/百纪影视仓.txt"
 },
 {
 "sourceName":"🐭抖音搜索🐭",
