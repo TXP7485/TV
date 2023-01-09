@@ -1,6 +1,6 @@
 {
 	"sites": [
-{"key":"千方百纪","name":"🐭千方百纪","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.iqiq.io/QFBJ/fxp/main/dy/千方百纪空间.txt","jar":"https://download.kstore.space/download/2863/Bili.jar;md5;c5c337bb2793598e9aa5953898fbb087"},
+{"key":"千方百纪","name":"🐭千方百纪","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://jsd.cdn.zzko.cn/gh/QFBJ/TV@main/U/自制源码.txt","jar":"https://download.kstore.space/download/2863/Bili.jar;md5;c5c337bb2793598e9aa5953898fbb087"},
 	
 		{
 			"key": "小苹果",
