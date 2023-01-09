@@ -2,11 +2,11 @@
 "storeHouse":[
 {
 "sourceName":"🐭抖音搜索🐭",
-"sourceUrl":"https://jsd.cdn.zzko.cn/gh/QFBJ/TV@main/B/千方百纪.txt"
+"sourceUrl":"https://jsd.cdn.zzko.cn/gh/QFBJ/TV@main/B/千方影视仓.txt"
 },
 {
 "sourceName":"🐭千方百纪🐭",
-"sourceUrl":"https://jsd.cdn.zzko.cn/gh/QFBJ/TV@main/B/千方百纪.txt"
+"sourceUrl":"https://jsd.cdn.zzko.cn/gh/QFBJ/TV@main/B/百纪影视仓.txt"
 },
 {
 "sourceName":"🐭千方影视仓🐭",
@@ -18,11 +18,11 @@
 },
 {
 "sourceName":"🐭关注私聊🐭",
-"sourceUrl":"https://jsd.cdn.zzko.cn/gh/QFBJ/TV@main/B/千方百纪.txt"
+"sourceUrl":"https://jsd.cdn.zzko.cn/gh/QFBJ/TV@main/B/千方影视仓.txt"
 },
 {
 "sourceName":"🐭获取新仓🐭",
-"sourceUrl":"https://jsd.cdn.zzko.cn/gh/QFBJ/TV@main/B/千方百纪.txt"
+"sourceUrl":"https://jsd.cdn.zzko.cn/gh/QFBJ/TV@main/B/百纪影视仓.txt"
 }
 ]
 }
