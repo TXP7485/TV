@@ -17,8 +17,24 @@
 "sourceUrl":"https://jsd.cdn.zzko.cn/gh/QFBJ/TV@main/B/4百纪影视仓.txt"
 },
 {
+"sourceName":"🐭百纪收集仓1🐭",
+"sourceUrl":"https://jsd.cdn.zzko.cn/gh/QFBJ/TV@main/B/百纪收集仓1.txt"
+},
+{
+"sourceName":"🐭百纪收集仓2🐭",
+"sourceUrl":"https://jsd.cdn.zzko.cn/gh/QFBJ/TV@main/B/百纪收集仓2.txt"
+},
+{
+"sourceName":"🐭百纪收集仓3🐭",
+"sourceUrl":"https://jsd.cdn.zzko.cn/gh/QFBJ/TV@main/B/百纪收集仓3.txt"
+},
+{
+"sourceName":"🐭百纪收集仓4🐭",
+"sourceUrl":"https://jsd.cdn.zzko.cn/gh/QFBJ/TV@main/B/百纪收集仓4.txt"
+},
+{
 "sourceName":"🐭待添加🐭",
-"sourceUrl":"https://jsd.cdn.zzko.cn/gh/QFBJ/TV@main/B/千方影视仓.txt"
+"sourceUrl":"https://jsd.cdn.zzko.cn/gh/QFBJ/TV@main/B/百纪福利仓1.txt"
 },
 {
 "sourceName":"🐭待添加🐭",
