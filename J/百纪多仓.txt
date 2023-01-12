@@ -34,11 +34,11 @@
 },
 {
 "sourceName":"🐭待添加🐭",
-"sourceUrl":"https://jsd.cdn.zzko.cn/gh/QFBJ/TV@main/B/百纪福利仓1.txt"
+"sourceUrl":"https://jsd.cdn.zzko.cn/gh/QFBJ/TV@main/B/6百纪影视仓.txt"
 },
 {
 "sourceName":"🐭待添加🐭",
-"sourceUrl":"https://jsd.cdn.zzko.cn/gh/QFBJ/TV@main/B/百纪影视仓.txt"
+"sourceUrl":"https://jsd.cdn.zzko.cn/gh/QFBJ/TV@main/B/6百纪影视仓.txt"
 },
 {
 "sourceName":"🐭抖音搜索🐭",
@@ -46,7 +46,7 @@
 },
 {
 "sourceName":"🐭千方百纪🐭",
-"sourceUrl":"https://jsd.cdn.zzko.cn/gh/QFBJ/TV@main/B/6百纪影视仓.txt"
+"sourceUrl":"https://jsd.cdn.zzko.cn/gh/QFBJ/TV@main/B/百纪福利仓1.txt"
 },
 {
 "sourceName":"🐭关注私聊🐭",
