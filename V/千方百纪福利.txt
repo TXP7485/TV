@@ -12,7 +12,15 @@
 
 
 
-"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=https://raw.iqiq.io/QFBJ/TV/main/V/十八直播.txt"]}]}],
+	"lives": [
+		{
+			"group": "redirect",
+			"channels": [
+				{
+					"name": "live",
+					"urls": [
+						"proxy://do=live&type=txt&ext=https://raw.iqiq.io/QFBJ/TV/main/V/十八直播.txt"
+					]}]}],
 
 "sites":[
 { "key": "(18+)JAV名优", "name": "*🔞未成年禁止访问🈲", "type": 0, "api": "http://mygzycj.com/api.php?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 0 },	
