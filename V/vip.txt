@@ -1,11 +1,11 @@
 {
 "urls": [
 {
-"url": "https://raw.iqiq.io/QFBJ/jsy2/master/叮当猫.txt",
+"url": "https://jsd.cdn.zzko.cn/gh/QFBJ/TV@main/F/叮当猫.txt",
 "name": "🐱叮当猫"
 },
 {
-"url": "https://raw.iqiq.io/QFBJ/jsy2/master/猪猪侠.txt",
+"url": "https://jsd.cdn.zzko.cn/gh/QFBJ/TV@main/F/猪猪侠.txt",
 "name": "🐷猪猪侠"
 },
 
