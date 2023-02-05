@@ -270,6 +270,13 @@
 	],
 	"spider": "http://45.125.46.61/box/jar/777.png;md5;7B65FF61E7B6887F975D9D83909361D5",
 	"wallpaper": "https://raw.iqiq.io/QFBJ/TV/main/U/壁纸.png",
+	"wallpaper": "https://raw.iqiq.io/QFBJ/TV/main/P/k/07.jpg",
+	"wallpaper": "https://raw.iqiq.io/QFBJ/TV/main/P/k/08.jpg",
+	"wallpaper": "https://raw.iqiq.io/QFBJ/TV/main/P/k/09.jpg",
+	"wallpaper": "https://raw.iqiq.io/QFBJ/TV/main/P/k/10.jpg",
+	"wallpaper": "https://raw.iqiq.io/QFBJ/TV/main/P/k/11.jpg",
+	"wallpaper": "https://raw.iqiq.io/QFBJ/TV/main/P/k/12.jpg",
+	
 	"lives": [
 		{
 			"group": "redirect",
