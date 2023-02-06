@@ -113,11 +113,11 @@
       "key": "dr_厂长资源",
       "name": "🏘️厂长(JS)",
       "type": 3,
-      "api": "./js/libmain.js",
+      "api": "https://yydsys.top/duo/js/libmain.js",
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./js/czspp.js"
+      "ext": "https://yydsys.top/duo/js/czspp.js"
     },
     {
       "key": "csp_CZSPP",
@@ -642,31 +642,31 @@
       "key": "dr_88看球",
       "name": "🏀狂飙看球",
       "type": 3,
-      "api": "./js/drpymin.js",
+      "api": "https://yydsys.top/duo/js/drpymin.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./js/88看球.js"
+      "ext": "https://yydsys.top/duo/js/88看球.js"
     },
     {
       "key": "dr_JRKAN直播",
       "name": "⚽JRK直播",
       "type": 3,
-      "api": "./js/drpymin.js",
+      "api": "https://yydsys.top/duo/js/drpymin.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./js/JRKAN.js"
+      "ext": "https://yydsys.top/duo/js/JRKAN.js"
     },
     {
       "key": "drpy_js_抓饭体育",
       "name": "🏀抓饭体育",
       "type": 3,
-      "api": "./js/drpymin.js",
+      "api": "https://yydsys.top/duo/js/drpymin.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./js/抓饭体育.js"
+      "ext": "https://yydsys.top/duo/js/抓饭体育.js"
     },
     {
       "key": "py_dashan",
@@ -676,7 +676,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./Bili/搭讪.py"
+      "ext": "https://yydsys.top/duo/Bili/搭讪.py"
     },
     {
       "key": "py_dapei",
@@ -686,7 +686,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./Bili/搭配.py"
+      "ext": "https://yydsys.top/duo/Bili/搭配.py"
     },
     {
       "key": "csp_Bili",
@@ -696,7 +696,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./Bili/bili.json"
+      "ext": "https://yydsys.top/duo/Bili/bili.json"
     },
     {
       "key": "py_video",
@@ -706,7 +706,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./Bili/video.py"
+      "ext": "https://yydsys.top/duo/Bili/video.py"
     },
     {
       "key": "py_meishi",
@@ -716,7 +716,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./Bili/美食合集.py"
+      "ext": "https://yydsys.top/duo/Bili/美食合集.py"
     },
     {
       "key": "py_youer",
@@ -726,7 +726,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./Bili/youer.py"
+      "ext": "https://yydsys.top/duo/Bili/youer.py"
     },
     {
       "key": "py_xiaoxue",
@@ -736,7 +736,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./Bili/xiaoxue.py"
+      "ext": "https://yydsys.top/duo/Bili/xiaoxue.py"
     },
     {
       "key": "py_czxx",
@@ -746,7 +746,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./Bili/chuzhong.py"
+      "ext": "https://yydsys.top/duo/Bili/chuzhong.py"
     },
     {
       "key": "py_gaozxx",
@@ -756,7 +756,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./Bili/gaozhong.py"
+      "ext": "https://yydsys.top/duo/Bili/gaozhong.py"
     },
     {
       "key": "py_zyy",
@@ -766,7 +766,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./Bili/zyy.py"
+      "ext": "https://yydsys.top/duo/Bili/zyy.py"
     },
     {
       "key": "py_zgwh",
@@ -776,7 +776,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./Bili/zgwh.py"
+      "ext": "https://yydsys.top/duo/Bili/zgwh.py"
     },
     {
       "key": "py_xuqu1",
@@ -786,7 +786,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./Bili/xiqu.py"
+      "ext": "https://yydsys.top/duo/Bili/xiqu.py"
     },
     {
       "key": "py_TYjs",
@@ -796,7 +796,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./Bili/tiyu.py"
+      "ext": "https://yydsys.top/duo/Bili/tiyu.py"
     },
     {
       "key": "py_xiangsh",
@@ -806,7 +806,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./Bili/xiaopin.py"
+      "ext": "https://yydsys.top/duo/Bili/xiaopin.py"
     },
     {
       "key": "py_FBqx",
@@ -816,7 +816,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./Bili/qiudui.py"
+      "ext": "https://yydsys.top/duo/Bili/qiudui.py"
     },
     {
       "key": "py_Meinvw",
@@ -826,7 +826,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./Bili/meinv.py"
+      "ext": "https://yydsys.top/duo/Bili/meinv.py"
     },
     {
       "key": "py_yanchh",
@@ -836,7 +836,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./Bili/geshou.py"
+      "ext": "https://yydsys.top/duo/Bili/geshou.py"
     },
     {
       "key": "py_Nvtuan",
@@ -846,7 +846,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./Bili/nvtuan.py"
+      "ext": "https://yydsys.top/duo/Bili/nvtuan.py"
     },
     {
       "key": "py_MTV",
@@ -856,7 +856,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./Bili/mtv.py"
+      "ext": "https://yydsys.top/duo/Bili/mtv.py"
     },
     {
       "key": "py_Yinl2",
@@ -866,7 +866,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./Bili/yinyue.py"
+      "ext": "https://yydsys.top/duo/Bili/yinyue.py"
     },
     {
       "key": "py_Bzjc",
@@ -876,7 +876,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./Bili/ruanjian.py"
+      "ext": "https://yydsys.top/duo/Bili/ruanjian.py"
     },
     {
       "key": "py_huya",
