@@ -38,7 +38,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/Alist1.json"
+      "ext": "https://yydsys.top/duo/json/Alist1.json"
     },
     {
       "key": "短视频聚合",
@@ -48,7 +48,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./json/%E7%9F%AD%E8%A7%86%E9%A2%91%E8%81%9A%E5%90%88.json"
+      "ext": "https://yydsys.top/duo/json/%E7%9F%AD%E8%A7%86%E9%A2%91%E8%81%9A%E5%90%88.json"
     },
     {
       "key": "csp_Yj1211",
@@ -155,7 +155,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./json/lezhu.json"
+      "ext": "https://yydsys.top/duo/json/lezhu.json"
     },
     {
       "key": "csp_panghu",
@@ -174,7 +174,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/Nmys.json"
+      "ext": "https://yydsys.top/duo/json/Nmys.json"
     },
     {
       "key": "小苹果",
@@ -202,7 +202,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./json/pylibvio.py"
+      "ext": "https://yydsys.top/duo/json/pylibvio.py"
     },
     {
       "key": "csp_xp_libv",
@@ -212,7 +212,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/LIBVIO.json"
+      "ext": "https://yydsys.top/duo/json/LIBVIO.json"
     },
     {
       "key": "csp_xBPQ_饭团",
@@ -222,7 +222,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./json/饭团HD.json"
+      "ext": "https://yydsys.top/duo/json/饭团HD.json"
     },
     {
       "key": "XBPQ_fant",
@@ -232,7 +232,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/饭团HD2.json"
+      "ext": "https://yydsys.top/duo/json/饭团HD2.json"
     },
     {
       "key": "csp_DiDuan",
@@ -261,7 +261,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/石榴影视.json"
+      "ext": "https://yydsys.top/duo/json/石榴影视.json"
     },
     {
       "key": "csp_Kunyu77",
@@ -298,7 +298,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./json/naifei.json"
+      "ext": "https://yydsys.top/duo/json/naifei.json"
     },
     {
       "key": "csp_xBPQ_555电影",
@@ -308,7 +308,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./json/555xb.json"
+      "ext": "https://yydsys.top/duo/json/555xb.json"
     },
     {
       "key": "csp_app_阿里",
@@ -337,7 +337,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/voflix.json"
+      "ext": "https://yydsys.top/duo/json/voflix.json"
     },
     {
       "key": "csp_xBPQ_秋霞",
@@ -347,7 +347,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./json/qiuxia.json"
+      "ext": "https://yydsys.top/duo/json/qiuxia.json"
     },
     {
       "key": "csp_xpath_独播库",
@@ -357,7 +357,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/duboku.json"
+      "ext": "https://yydsys.top/duo/json/duboku.json"
     },
     {
       "key": "csp_Nkdy",
@@ -385,7 +385,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/789ba.json"
+      "ext": "https://yydsys.top/duo/json/789ba.json"
     },
     {
       "key": "py_cctv",
@@ -395,7 +395,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./json/cctv.py"
+      "ext": "https://yydsys.top/duo/json/cctv.py"
     },
     {
       "key": "csp_xBPQ_真不卡",
@@ -405,7 +405,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/真不卡.json"
+      "ext": "https://yydsys.top/duo/json/真不卡.json"
     },
     {
       "key": "csp_Smdyy",
@@ -502,7 +502,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/%E9%AA%9A%E7%81%AB%E7%94%B5%E5%BD%B1.json"
+      "ext": "https://yydsys.top/duo/json/%E9%AA%9A%E7%81%AB%E7%94%B5%E5%BD%B1.json"
     },
     {
       "key": "XBPQ_电影先生",
@@ -512,7 +512,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/filmMr.json"
+      "ext": "https://yydsys.top/duo/json/filmMr.json"
     },
     {
       "key": "XBPQ_HDIK",
@@ -522,7 +522,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/HDIK.json"
+      "ext": "https://yydsys.top/duo/json/HDIK.json"
     },
     {
       "key": "csp_xBPQ_电影天堂",
@@ -596,7 +596,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./json/tingshu.json"
+      "ext": "https://yydsys.top/duo/json/tingshu.json"
     },
     {
       "key": "py_qie",
@@ -606,7 +606,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./json/qie.py"
+      "ext": "https://yydsys.top/duo/json/qie.py"
     },
     {
       "key": "csp_XPath_鹅直播",
@@ -616,7 +616,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./json/qie.json"
+      "ext": "https://yydsys.top/duo/json/qie.json"
     },
     {
       "key": "csp_XYQBiu_310直播",
@@ -626,7 +626,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./json/310%E7%9B%B4%E6%92%AD.json"
+      "ext": "https://yydsys.top/duo/json/310%E7%9B%B4%E6%92%AD.json"
     },
     {
       "key": "csp_xpath_qiumi",
@@ -636,7 +636,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./json/jrs.json"
+      "ext": "https://yydsys.top/duo/json/jrs.json"
     },
     {
       "key": "dr_88看球",
@@ -886,7 +886,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./json/pyhuya.py"
+      "ext": "https://yydsys.top/duo/json/pyhuya.py"
     },
     {
       "key": "csp_XYQBiu_虎牙直播",
@@ -896,7 +896,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./json/%E8%99%8E%E7%89%99.json"
+      "ext": "https://yydsys.top/duo/json/%E8%99%8E%E7%89%99.json"
     },
     {
       "key": "py_douyu",
@@ -906,7 +906,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./json/pydouyu.py"
+      "ext": "https://yydsys.top/duo/json/pydouyu.py"
     },
     {
       "key": "csp_biubiu_斗鱼",
@@ -916,7 +916,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./json/%E6%96%97%E9%B1%BC.json"
+      "ext": "https://yydsys.top/duo/json/%E6%96%97%E9%B1%BC.json"
     },
     {
       "key": "网易CC",
@@ -926,7 +926,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./json/%E7%BD%91%E6%98%93CC.json"
+      "ext": "https://yydsys.top/duo/json/%E7%BD%91%E6%98%93CC.json"
     },
     {
       "key": "csp_xpath_kuqimv",
@@ -936,7 +936,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./json/%E9%85%B7%E5%A5%87MV.json"
+      "ext": "https://yydsys.top/duo/json/%E9%85%B7%E5%A5%87MV.json"
     },
     {
       "key": "Yisou",
@@ -996,7 +996,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/%E9%9F%B3%E8%8C%83%E4%B8%9D.json"
+      "ext": "https://yydsys.top/duo/json/%E9%9F%B3%E8%8C%83%E4%B8%9D.json"
     },
     {
       "key": "csp_biubiu_在线之家",
@@ -1006,7 +1006,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/%E5%9C%A8%E7%BA%BF%E4%B9%8B%E5%AE%B6.json"
+      "ext": "https://yydsys.top/duo/json/%E5%9C%A8%E7%BA%BF%E4%B9%8B%E5%AE%B6.json"
     },
     {
       "key": "干饭影视",
@@ -1016,7 +1016,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/干饭影视.json"
+      "ext": "https://yydsys.top/duo/json/干饭影视.json"
     },
     {
       "key": "口袋影院",
@@ -1026,7 +1026,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./json/%E5%8F%A3%E8%A2%8B%E5%BD%B1%E9%99%A2.json"
+      "ext": "https://yydsys.top/duo/json/%E5%8F%A3%E8%A2%8B%E5%BD%B1%E9%99%A2.json"
     },
     {
       "key": "花猫影视",
@@ -1036,7 +1036,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./json/%E8%8A%B1%E7%8C%AB%E5%BD%B1%E8%A7%86.json"
+      "ext": "https://yydsys.top/duo/json/%E8%8A%B1%E7%8C%AB%E5%BD%B1%E8%A7%86.json"
     },
     {
       "key": "利奥影院",
@@ -1046,7 +1046,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/%E5%88%A9%E5%A5%A5%E5%BD%B1%E9%99%A2.json"
+      "ext": "https://yydsys.top/duo/json/%E5%88%A9%E5%A5%A5%E5%BD%B1%E9%99%A2.json"
     },
     {
       "key": "六度影视",
@@ -1056,7 +1056,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./json/%E5%85%AD%E5%BA%A6%E5%BD%B1%E8%A7%86.json"
+      "ext": "https://yydsys.top/duo/json/%E5%85%AD%E5%BA%A6%E5%BD%B1%E8%A7%86.json"
     },
     {
       "key": "csp_biubiu_dadagui",
@@ -1066,7 +1066,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/%E8%BE%BE%E8%BE%BE%E9%BE%9F.json"
+      "ext": "https://yydsys.top/duo/json/%E8%BE%BE%E8%BE%BE%E9%BE%9F.json"
     },
     {
       "key": "csp_xBPQ_TVB云播",
@@ -1076,7 +1076,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./json/tvb%E4%BA%91%E6%92%AD.json"
+      "ext": "https://yydsys.top/duo/json/tvb%E4%BA%91%E6%92%AD.json"
     },
     {
       "key": "COKEMV",
@@ -1086,7 +1086,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./json/COKEMV.json"
+      "ext": "https://yydsys.top/duo/json/COKEMV.json"
     },
     {
       "key": "Auete影视",
@@ -1096,7 +1096,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./json/Auete%E5%BD%B1%E8%A7%86.json"
+      "ext": "https://yydsys.top/duo/json/Auete%E5%BD%B1%E8%A7%86.json"
     },
     {
       "key": "人人影视",
@@ -1106,7 +1106,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./json/%E4%BA%BA%E4%BA%BA%E5%BD%B1%E8%A7%86.json"
+      "ext": "https://yydsys.top/duo/json/%E4%BA%BA%E4%BA%BA%E5%BD%B1%E8%A7%86.json"
     },
     {
       "key": "三九影视",
@@ -1116,7 +1116,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./json/%E4%B8%89%E4%B9%9D%E5%BD%B1%E8%A7%86.json"
+      "ext": "https://yydsys.top/duo/json/%E4%B8%89%E4%B9%9D%E5%BD%B1%E8%A7%86.json"
     },
     {
       "key": "csp_xBPQ_金眼影视",
@@ -1126,7 +1126,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./json/%E9%87%91%E7%9C%BC%E5%BD%B1%E8%A7%86.json"
+      "ext": "https://yydsys.top/duo/json/%E9%87%91%E7%9C%BC%E5%BD%B1%E8%A7%86.json"
     },
     {
       "key": "csp_xBPQ_Nike影视",
@@ -1136,7 +1136,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./json/Nike%E5%BD%B1%E8%A7%86.json"
+      "ext": "https://yydsys.top/duo/json/Nike%E5%BD%B1%E8%A7%86.json"
     },
     {
       "key": "去看动漫",
@@ -1146,7 +1146,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./json/%E5%8E%BB%E7%9C%8B%E5%8A%A8%E6%BC%AB.json"
+      "ext": "https://yydsys.top/duo/json/%E5%8E%BB%E7%9C%8B%E5%8A%A8%E6%BC%AB.json"
     },
     {
       "key": "动漫直链",
@@ -1156,7 +1156,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./json/%E5%8A%A8%E6%BC%AB%E7%9B%B4%E9%93%BE.json"
+      "ext": "https://yydsys.top/duo/json/%E5%8A%A8%E6%BC%AB%E7%9B%B4%E9%93%BE.json"
     },
     {
       "key": "csp_biubiu_风车动漫",
@@ -1166,7 +1166,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./json/%E9%A3%8E%E8%BD%A6%E5%8A%A8%E6%BC%AB.json"
+      "ext": "https://yydsys.top/duo/json/%E9%A3%8E%E8%BD%A6%E5%8A%A8%E6%BC%AB.json"
     },
     {
       "key": "csp_xpath___动漫巴士",
@@ -1176,7 +1176,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./json/%E5%8A%A8%E6%BC%AB%E5%B7%B4%E5%A3%AB.json"
+      "ext": "https://yydsys.top/duo/json/%E5%8A%A8%E6%BC%AB%E5%B7%B4%E5%A3%AB.json"
     },
     {
       "key": "鑫总资源",
