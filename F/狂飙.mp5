@@ -10,6 +10,16 @@
       "filterable": 0
     },
     {
+      "key": "py_video",
+      "name": "🅱️B站影视",
+      "type": 3,
+      "api": "py_video",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://yydsys.top/duo/Bili/video.py"
+    },
+    {
       "key": "csp_XYQBiu_虎牙直播",
       "name": "🐯虎牙直播",
       "type": 3,
@@ -262,6 +272,16 @@
       "filterable": 1
     },
     {
+      "key": "py_libvio",
+      "name": "🍲LIB(PY)",
+      "type": 3,
+      "api": "py_libvio",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://yydsys.top/duo/json/pylibvio.py"
+    },
+    {
       "key": "csp_xp_libv",
       "name": "🍲LIB(XP)",
       "type": 3,
@@ -387,6 +407,16 @@
       "filterable": 1
     },
     {
+      "key": "py_cctv",
+      "name": "❤️爱央视(PY)",
+      "type": 3,
+      "api": "py_cctv",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://yydsys.top/duo/json/cctv.py"
+    },
+    {
       "key": "csp_xBPQ_真不卡",
       "name": "🚀真不卡(XB)",
       "type": 3,
@@ -481,6 +511,16 @@
       "filterable": 0
     },
     {
+      "key": "py_qie",
+      "name": "🏀企鹅体育",
+      "type": 3,
+      "api": "py_qie",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://yydsys.top/duo/json/qie.py"
+    },
+    {
       "key": "csp_XPath_鹅直播",
       "name": "⚽企鹅直播",
       "type": 3,
@@ -519,6 +559,197 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://yydsys.top/duo/Bili/bili.json"
+    },
+    {
+      "key": "py_meishi",
+      "name": "🅱️美食合集",
+      "type": 3,
+      "api": "py_meishi",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://yydsys.top/duo/Bili/美食合集.py"
+    },
+    {
+      "key": "py_youer",
+      "name": "🅱️幼儿教育",
+      "type": 3,
+      "api": "py_youer",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://yydsys.top/duo/Bili/youer.py"
+    },
+    {
+      "key": "py_xiaoxue",
+      "name": "🅱️小学教育",
+      "type": 3,
+      "api": "py_xiaoxue",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://yydsys.top/duo/Bili/xiaoxue.py"
+    },
+    {
+      "key": "py_czxx",
+      "name": "🅱️初中教育",
+      "type": 3,
+      "api": "py_czxx",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://yydsys.top/duo/Bili/chuzhong.py"
+    },
+    {
+      "key": "py_gaozxx",
+      "name": "🅱️高中教育",
+      "type": 3,
+      "api": "py_gaozxx",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://yydsys.top/duo/Bili/gaozhong.py"
+    },
+    {
+      "key": "py_zyy",
+      "name": "🅱️中医药区",
+      "type": 3,
+      "api": "py_zyy",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://yydsys.top/duo/Bili/zyy.py"
+    },
+    {
+      "key": "py_zgwh",
+      "name": "🅱️中国文化",
+      "type": 3,
+      "api": "py_zgwh",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://yydsys.top/duo/Bili/zgwh.py"
+    },
+    {
+      "key": "py_xuqu1",
+      "name": "🅱️戏曲合集",
+      "type": 3,
+      "api": "py_xuqu1",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://yydsys.top/duo/Bili/xiqu.py"
+    },
+    {
+      "key": "py_TYjs",
+      "name": "🅱️体育健身",
+      "type": 3,
+      "api": "py_TYjs",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://yydsys.top/duo/Bili/tiyu.py"
+    },
+    {
+      "key": "py_xiangsh",
+      "name": "🅱️相声小品",
+      "type": 3,
+      "api": "py_xiangsh",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://yydsys.top/duo/Bili/xiaopin.py"
+    },
+    {
+      "key": "py_FBqx",
+      "name": "🅱️球队球星",
+      "type": 3,
+      "api": "py_FBqx",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://yydsys.top/duo/Bili/qiudui.py"
+    },
+    {
+      "key": "py_Meinvw",
+      "name": "🅱️美女热舞",
+      "type": 3,
+      "api": "py_Meinvw",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://yydsys.top/duo/Bili/meinv.py"
+    },
+    {
+      "key": "py_yanchh",
+      "name": "🅱️歌手合集",
+      "type": 3,
+      "api": "py_yanchh",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://yydsys.top/duo/Bili/geshou.py"
+    },
+    {
+      "key": "py_Nvtuan",
+      "name": "🅱️女团热舞",
+      "type": 3,
+      "api": "py_Nvtuan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://yydsys.top/duo/Bili/nvtuan.py"
+    },
+    {
+      "key": "py_MTV",
+      "name": "🅱️歌曲MTV",
+      "type": 3,
+      "api": "py_MTV",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://yydsys.top/duo/Bili/mtv.py"
+    },
+    {
+      "key": "py_Yinl2",
+      "name": "🅱️音乐合集",
+      "type": 3,
+      "api": "py_Yinl2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://yydsys.top/duo/Bili/yinyue.py"
+    },
+    {
+      "key": "py_Bzjc",
+      "name": "🅱️软件教程",
+      "type": 3,
+      "api": "py_Bzjc",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://yydsys.top/duo/Bili/ruanjian.py"
+    },
+    {
+      "key": "py_huya",
+      "name": "🐯虎牙(PY)",
+      "type": 3,
+      "api": "py_huya",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://yydsys.top/duo/json/pyhuya.py"
+    },
+
+    {
+      "key": "py_douyu",
+      "name": "🦈斗鱼(PY)",
+      "type": 3,
+      "api": "py_douyu",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://yydsys.top/duo/json/pydouyu.py"
     },
     {
       "key": "网易CC",
@@ -739,21 +970,6 @@
       "filterable": 0
     }
   ],
-
-  "lives": [
-    {
-      "group": "redirect",
-      "channels": [
-        {
-          "name": "live",
-          "urls": [
-            "proxy://do=live&type=txt&ext=https://raw.iqiq.io/QFBJ/TV/main/Q/狂飙影视"
-          ]
-        }
-      ]
-    }
-  ],
-  
 
   "parses": [
     {
@@ -1163,6 +1379,6 @@
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
   ],
-  "wallpaper": "https://yydsys.top/bg.php",
+  "wallpaper": "https://jsd.cdn.zzko.cn/gh/QFBJ/TV@main/P/k/00.png",
   "spider": "https://yydsys.top/duo/jar/duov.jar"
 }
